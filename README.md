@@ -82,10 +82,10 @@ Make sure you have Python 3.x installed on your system.
 
 Additional Notes:
 
-Email Verification: The email-validator library is used for robust email validation.
-QR Code Generator: The qrcode library allows for easy QR code generation.
-Email Validation Using Regex: Uses regex from Python’s standard library; no additional packages needed.
-Instabot: An automation tool for Instagram; ensure compliance with Instagram's usage policies.
-Multi Email Sending: Uses Python’s built-in smtplib for sending emails.
-Voice Assistant: speechrecognition handles voice command recognition, while pyttsx3 provides text-to-speech functionality.
+1) Email Verification: The email-validator library is used for robust email validation.
+2) QR Code Generator: The qrcode library allows for easy QR code generation.
+3) Email Validation Using Regex: Uses regex from Python’s standard library; no additional packages needed.
+4) Instabot: An automation tool for Instagram; ensure compliance with Instagram's usage policies.
+5) Multi Email Sending: Uses Python’s built-in smtplib for sending emails.
+6) Voice Assistant: speechrecognition handles voice command recognition, while pyttsx3 provides text-to-speech functionality.
 

@@ -62,6 +62,15 @@ A voice assistant that can perform tasks such as telling the current time, openi
 - Run the script and interact with the assistant using voice commands.
 - Example command: `python voice_assistant.py`
 
+### 8. Typing speed calculator
+ **Description:**
+The Typing Speed Calculator is a Python application that measures how quickly and accurately you can type. It provides real-time feedback on your typing speed (words per minute) and accuracy (percentage of correct words) through a simple command-line interface.
+
+**Usage:**
+- Measure Typing Speed: Determine how many words you can type per minute.
+- Assess Accuracy: Check the percentage of correctly typed words.
+- Track Improvement: Use the tool periodically to monitor improvements in typing speed and accuracy.
+
 ## Setup and Installation
 
 ### Prerequisites
